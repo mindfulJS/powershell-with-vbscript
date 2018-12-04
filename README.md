@@ -1,4 +1,4 @@
-# PowerShell-with-VBScript
+# PowerShell with VBScript
 Run PowerShell with VBScript!
 
 This allows to use VBScript window management capabilities (message boxes) before running a PowerShell program for example.
